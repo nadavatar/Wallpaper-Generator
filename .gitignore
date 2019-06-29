@@ -1,0 +1,10 @@
+#first line
+node_modules/
+images/
+.git/
+
+vars.env
+yarn.lock
+package.json
+logs.log
+.gitignore
