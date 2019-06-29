@@ -1,0 +1,22 @@
+* {
+  text-align: center;
+}
+
+#header {
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+.subHeader {
+  margin-bottom: 25px;
+}
+
+#randomBtn {
+  margin-bottom: 75px;
+}
+
+#search {
+  width: 50%;
+  margin: 0 auto;
+  margin-bottom: 25px;
+}
